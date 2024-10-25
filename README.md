@@ -9,15 +9,14 @@ Features
 Dependencies
 Setup
 Usage
-Design Choices
 Configuration
 Database
 Troubleshooting
 Features
-**Real-Time Weather Monitoring: Retrieves weather data for multiple cities at user-defined intervals.**
-**Daily Summaries: Stores daily weather summaries (average, max, min temperature) in an SQLite database.**
-**Temperature Alerts: Sends an email alert if a city’s temperature exceeds a specified threshold for consecutive updates.**
-**Visualization: Plots daily temperature summaries for historical data visualization.**
+Real-Time Weather Monitoring: Retrieves weather data for multiple cities at user-defined intervals.
+Daily Summaries: Stores daily weather summaries (average, max, min temperature) in an SQLite database.
+Temperature Alerts: Sends an email alert if a city’s temperature exceeds a specified threshold for consecutive updates.
+Visualization: Plots daily temperature summaries for historical data visualization.
 
 #Dependencies
 This application uses the following dependencies:
