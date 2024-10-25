@@ -40,5 +40,13 @@ Docker Image
 ```
 docker pull tejas033/weather_monitering_system:tejas_first_img
 ```
+## Application Images
+![UI](image/SS1.png)
+![Input](image/ss2.png)
+![Output](image/ss3.png)
+![Test_file_Output](image/ss4.png)
+
+
+
 
 
