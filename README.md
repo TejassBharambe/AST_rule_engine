@@ -36,10 +36,7 @@ Install required packages using pip:
 ```bash
 pip install requests schedule matplotlib
 ```
-Docker Image
-```
-docker pull tejas033/weather_monitering_system:tejas_first_img
-```
+
 ## Application Images
 ![UI](image/SS1.png)
 ![Input](image/ss2.png)
