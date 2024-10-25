@@ -32,5 +32,7 @@ This application uses the following dependencies:
 
 Install required packages using pip:
 
+
 ```bash
 pip install requests schedule matplotlib
+
