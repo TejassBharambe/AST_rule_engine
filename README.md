@@ -1,8 +1,10 @@
 # AST_rule_engine
-#Real-Time Weather Monitoring and Alerting System
-This application fetches real-time weather data for selected cities, processes and stores daily summaries, and sends alerts if the temperature exceeds a user-defined threshold. The application uses the OpenWeatherMap API for weather data, SQLite for data storage, and matplotlib for data visualization. Alerts are sent via email after consecutive updates indicating temperatures above the threshold.
+# Real-Time Weather Monitoring and Alerting System
+ This application fetches real-time weather data for selected cities, processes and stores daily summaries, and sends alerts if the temperature exceeds a user-defined threshold. The application 
+ uses the OpenWeatherMap API for weather data, SQLite for data storage, and matplotlib for data visualization. Alerts are sent via email after consecutive updates indicating temperatures above 
+ the threshold.
 
-#Table of Contents
+# Table of Contents
 Features
 Dependencies
 Setup
